@@ -168,6 +168,8 @@ class MemberProfilePage extends Page
         ]
     ];
 
+    private static $class_description = 'A page for member profile editing.';
+    
     private static $description = '';
 
     private static $icon = 'symbiote/silverstripe-memberprofiles: client/images/memberprofilepage.png';
