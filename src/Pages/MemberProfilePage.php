@@ -168,7 +168,7 @@ class MemberProfilePage extends Page
         ]
     ];
 
-    private static $class_description = 'A page for member profile editing.';
+    private static $class_description = 'Allows members to register and edit their profile';
     
     private static $description = '';
 
